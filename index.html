@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CREDISAN+ | Generador de Memoriales</title>
+<style>
+  body{margin:0;font-family:'Segoe UI',system-ui,sans-serif;background:linear-gradient(135deg,#0A1628,#1a2d4f);
+       color:#E8EDF5;height:100vh;display:flex;align-items:center;justify-content:center;text-align:center}
+  .box{max-width:420px;padding:32px}
+  h1{color:#C9A84C;font-size:26px;margin:0 0 8px}
+  p{color:#8BA3C7;font-size:15px;line-height:1.5}
+  .spin{width:46px;height:46px;border:4px solid #1E3A5F;border-top-color:#C9A84C;border-radius:50%;
+        margin:24px auto;animation:r 1s linear infinite}
+  @keyframes r{to{transform:rotate(360deg)}}
+  a{color:#C9A84C}
+  .btn{display:inline-block;margin-top:18px;background:linear-gradient(135deg,#C9A84C,#E5C76B);
+       color:#0A1628;text-decoration:none;padding:12px 28px;border-radius:8px;font-weight:600}
+</style>
+</head>
+<body>
+  <div class="box">
+    <h1>⚖️ CREDISAN+</h1>
+    <p>Generador de Memoriales Judiciales</p>
+    <div class="spin"></div>
+    <p id="msg">Conectando con la aplicación…</p>
+    <a class="btn" id="manual" href="#" style="display:none">Abrir aplicación</a>
+  </div>
+<script>
+(async function(){
+  try{
+    const r = await fetch('url.txt?t=' + Date.now(), {cache:'no-store'});
+    const url = (await r.text()).trim();
+    if(url && url.startsWith('http')){
+      document.getElementById('manual').href = url;
+      document.getElementById('manual').style.display = 'inline-block';
+      document.getElementById('msg').textContent = 'Abriendo aplicación…';
+      window.location.replace(url);
+    } else { throw new Error('sin url'); }
+  }catch(e){
+    document.getElementById('msg').innerHTML =
+      'La aplicación no está disponible en este momento.<br>Intenta de nuevo en unos minutos.';
+    document.querySelector('.spin').style.display='none';
+  }
+})();
+</script>
+</body>
+</html>
