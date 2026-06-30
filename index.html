@@ -29,7 +29,7 @@
 <script>
 (async function(){
   try{
-    const r = await fetch('url.txt?t=' + Date.now(), {cache:'no-store'});
+    const r = await fetch('https://raw.githubusercontent.com/juanardila62/credisan-app/main/url.txt?t=' + Date.now(), {cache:'no-store'});
     const url = (await r.text()).trim();
     if(url && url.startsWith('http')){
       document.getElementById('manual').href = url;
