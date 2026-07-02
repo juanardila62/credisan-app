@@ -1,1 +1,1 @@
-https://tells-than-surely-exhibit.trycloudflare.com
+https://api.trycloudflare.com
