@@ -1,1 +1,1 @@
-https://straight-drawing-computers-frequency.trycloudflare.com
+https://api.trycloudflare.com
