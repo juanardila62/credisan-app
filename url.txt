@@ -1,1 +1,1 @@
-https://police-biographies-lie-pillow.trycloudflare.com
+https://api.trycloudflare.com
