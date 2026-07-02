@@ -1,1 +1,1 @@
-https://nurse-performs-queen-remedies.trycloudflare.com
+https://api.trycloudflare.com
