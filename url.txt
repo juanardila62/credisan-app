@@ -1,1 +1,1 @@
-https://stunning-folk-kelly-grey.trycloudflare.com
+https://api.trycloudflare.com
