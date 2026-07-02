@@ -1,1 +1,1 @@
-https://submissions-triangle-coleman-customers.trycloudflare.com
+https://api.trycloudflare.com
