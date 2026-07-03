@@ -1,1 +1,1 @@
-https://villages-basename-cleanup-formed.trycloudflare.com
+https://api.trycloudflare.com
