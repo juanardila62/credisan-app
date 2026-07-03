@@ -1,1 +1,1 @@
-https://reception-lamp-princeton-though.trycloudflare.com
+https://api.trycloudflare.com
