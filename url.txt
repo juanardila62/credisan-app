@@ -1,1 +1,1 @@
-https://sciences-invest-perspectives-morrison.trycloudflare.com
+https://api.trycloudflare.com
