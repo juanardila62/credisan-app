@@ -1,1 +1,1 @@
-https://outlet-jean-influence-app.trycloudflare.com
+https://api.trycloudflare.com
