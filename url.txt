@@ -1,1 +1,1 @@
-https://elected-baking-drawing-bibliography.trycloudflare.com
+https://api.trycloudflare.com
