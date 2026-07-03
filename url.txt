@@ -1,1 +1,1 @@
-https://having-book-misc-strand.trycloudflare.com
+https://api.trycloudflare.com
