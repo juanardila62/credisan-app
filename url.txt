@@ -1,1 +1,1 @@
-https://explore-smart-burlington-ddr.trycloudflare.com
+https://api.trycloudflare.com
