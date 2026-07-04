@@ -1,1 +1,1 @@
-https://division-tree-everyday-corporate.trycloudflare.com
+https://api.trycloudflare.com
