@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://insights-pharmacy-instrumental-monitor.trycloudflare.com
