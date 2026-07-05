@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://qty-them-vcr-hawaii.trycloudflare.com
