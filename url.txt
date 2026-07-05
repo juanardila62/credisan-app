@@ -1,1 +1,1 @@
-https://reviewed-warnings-bloom-approaches.trycloudflare.com
+https://api.trycloudflare.com
