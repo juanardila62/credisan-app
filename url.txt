@@ -1,1 +1,1 @@
-https://transcript-level-ripe-country.trycloudflare.com
+https://api.trycloudflare.com
