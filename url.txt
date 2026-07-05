@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://alfred-merchants-evidence-coupled.trycloudflare.com
