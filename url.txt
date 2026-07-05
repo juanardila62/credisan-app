@@ -1,1 +1,1 @@
-https://concluded-explanation-farm-contest.trycloudflare.com
+https://api.trycloudflare.com
