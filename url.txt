@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://shipments-wishlist-over-legs.trycloudflare.com
