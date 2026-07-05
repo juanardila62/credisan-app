@@ -1,1 +1,1 @@
-https://cigarette-kick-scored-abstracts.trycloudflare.com
+https://api.trycloudflare.com
