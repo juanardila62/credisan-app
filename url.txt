@@ -1,1 +1,1 @@
-https://film-childhood-shareholders-kick.trycloudflare.com
+https://api.trycloudflare.com
