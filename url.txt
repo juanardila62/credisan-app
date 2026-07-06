@@ -1,1 +1,1 @@
-https://stylish-jake-moms-bits.trycloudflare.com
+https://api.trycloudflare.com
