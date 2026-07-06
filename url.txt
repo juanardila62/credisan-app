@@ -1,1 +1,1 @@
-https://lease-circles-distributors-banana.trycloudflare.com
+https://api.trycloudflare.com
