@@ -1,1 +1,1 @@
-https://how-consultants-retailers-acquire.trycloudflare.com
+https://api.trycloudflare.com
