@@ -1,1 +1,1 @@
-https://autumn-grows-purpose-refuse.trycloudflare.com
+https://api.trycloudflare.com
