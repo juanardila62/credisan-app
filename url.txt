@@ -1,1 +1,1 @@
-https://deeply-rentals-nominations-victorian.trycloudflare.com
+https://api.trycloudflare.com
