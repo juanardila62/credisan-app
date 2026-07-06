@@ -1,1 +1,1 @@
-https://depth-nationally-collectible-llc.trycloudflare.com
+https://api.trycloudflare.com
