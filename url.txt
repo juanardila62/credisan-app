@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://pledge-seeker-rating-advert.trycloudflare.com
