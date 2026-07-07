@@ -1,1 +1,1 @@
-https://ensures-asylum-vancouver-mug.trycloudflare.com
+https://api.trycloudflare.com
