@@ -1,1 +1,1 @@
-https://dig-prototype-interval-patrick.trycloudflare.com
+https://api.trycloudflare.com
