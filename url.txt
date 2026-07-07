@@ -1,1 +1,1 @@
-https://embedded-forecast-began-spent.trycloudflare.com
+https://api.trycloudflare.com
