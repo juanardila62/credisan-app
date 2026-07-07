@@ -1,1 +1,1 @@
-https://geneva-dishes-telephony-photographic.trycloudflare.com
+https://api.trycloudflare.com
