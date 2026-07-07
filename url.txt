@@ -1,1 +1,1 @@
-https://statutes-alice-ted-supports.trycloudflare.com
+https://api.trycloudflare.com
