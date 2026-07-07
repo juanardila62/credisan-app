@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://duck-image-cincinnati-circles.trycloudflare.com
