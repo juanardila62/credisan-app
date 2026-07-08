@@ -1,1 +1,1 @@
-https://quarterly-smilies-knight-reminder.trycloudflare.com
+https://api.trycloudflare.com
