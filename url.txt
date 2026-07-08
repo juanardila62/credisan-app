@@ -1,1 +1,1 @@
-https://attorney-cargo-tsunami-swim.trycloudflare.com
+https://api.trycloudflare.com
