@@ -1,1 +1,1 @@
-https://citizen-demographic-packet-utc.trycloudflare.com
+https://api.trycloudflare.com
