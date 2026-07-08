@@ -1,1 +1,1 @@
-https://update-taxation-cold-investigator.trycloudflare.com
+https://api.trycloudflare.com
