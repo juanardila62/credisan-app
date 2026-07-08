@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://charge-humanity-granted-radio.trycloudflare.com
