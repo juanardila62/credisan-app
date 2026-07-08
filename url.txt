@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://segment-reducing-renewal-translation.trycloudflare.com
