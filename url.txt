@@ -1,1 +1,1 @@
-https://barn-animals-configuring-johnston.trycloudflare.com
+https://api.trycloudflare.com
