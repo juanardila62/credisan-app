@@ -1,1 +1,1 @@
-https://helps-locator-rural-guarantees.trycloudflare.com
+https://api.trycloudflare.com
