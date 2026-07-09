@@ -1,1 +1,1 @@
-https://lectures-tunnel-know-controller.trycloudflare.com
+https://api.trycloudflare.com
