@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://terms-executed-airports-exterior.trycloudflare.com
