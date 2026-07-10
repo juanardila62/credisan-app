@@ -1,1 +1,1 @@
-https://conscious-spot-arise-graduated.trycloudflare.com
+https://api.trycloudflare.com
