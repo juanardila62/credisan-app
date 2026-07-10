@@ -1,1 +1,1 @@
-https://mom-consists-helmet-farm.trycloudflare.com
+https://api.trycloudflare.com
