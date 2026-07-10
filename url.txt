@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://hughes-cache-biggest-adds.trycloudflare.com
