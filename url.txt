@@ -1,1 +1,1 @@
-https://amino-encountered-zoo-rights.trycloudflare.com
+https://api.trycloudflare.com
