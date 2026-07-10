@@ -1,1 +1,1 @@
-https://supporters-dining-luke-cathedral.trycloudflare.com
+https://api.trycloudflare.com
