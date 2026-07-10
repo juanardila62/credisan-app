@@ -1,1 +1,1 @@
-https://efforts-basin-pocket-mods.trycloudflare.com
+https://api.trycloudflare.com
