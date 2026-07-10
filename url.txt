@@ -1,1 +1,1 @@
-https://films-raise-group-homeless.trycloudflare.com
+https://api.trycloudflare.com
