@@ -1,1 +1,1 @@
-https://katie-say-coast-character.trycloudflare.com
+https://api.trycloudflare.com
