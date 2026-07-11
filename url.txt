@@ -1,1 +1,1 @@
-https://guestbook-vsnet-wonder-watson.trycloudflare.com
+https://api.trycloudflare.com
