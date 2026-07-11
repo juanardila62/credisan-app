@@ -1,1 +1,1 @@
-https://yes-screensaver-sacramento-container.trycloudflare.com
+https://api.trycloudflare.com
