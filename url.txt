@@ -1,1 +1,1 @@
-https://exclude-brother-put-railroad.trycloudflare.com
+https://api.trycloudflare.com
