@@ -1,1 +1,1 @@
-https://correct-likelihood-invitation-hiv.trycloudflare.com
+https://api.trycloudflare.com
