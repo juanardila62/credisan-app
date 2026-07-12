@@ -1,1 +1,1 @@
-https://distribute-towns-money-diego.trycloudflare.com
+https://api.trycloudflare.com
