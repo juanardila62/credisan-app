@@ -1,1 +1,1 @@
-https://trainer-novelty-educational-nottingham.trycloudflare.com
+https://api.trycloudflare.com
