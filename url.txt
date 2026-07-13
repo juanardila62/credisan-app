@@ -1,1 +1,1 @@
-https://specified-descriptions-hours-precise.trycloudflare.com
+https://api.trycloudflare.com
