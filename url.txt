@@ -1,1 +1,1 @@
-https://clothes-click-non-quotations.trycloudflare.com
+https://api.trycloudflare.com
