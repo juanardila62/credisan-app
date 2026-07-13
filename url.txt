@@ -1,1 +1,1 @@
-https://unlock-half-microphone-nest.trycloudflare.com
+https://api.trycloudflare.com
