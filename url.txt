@@ -1,1 +1,1 @@
-https://wendy-occurred-supervisor-sail.trycloudflare.com
+https://api.trycloudflare.com
