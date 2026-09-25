@@ -1,1 +1,1 @@
-https://stopping-oscar-character-mpg.trycloudflare.com
+https://api.trycloudflare.com
