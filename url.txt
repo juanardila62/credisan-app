@@ -1,1 +1,1 @@
-https://streets-arizona-call-suzuki.trycloudflare.com
+https://api.trycloudflare.com
