@@ -1,1 +1,1 @@
-https://contractors-bean-starting-experts.trycloudflare.com
+https://api.trycloudflare.com
