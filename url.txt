@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://file-mins-merchandise-klein.trycloudflare.com
