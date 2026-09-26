@@ -1,1 +1,1 @@
-https://specification-findlaw-buy-camcorder.trycloudflare.com
+https://api.trycloudflare.com
