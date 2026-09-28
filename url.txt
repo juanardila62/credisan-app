@@ -1,1 +1,1 @@
-https://date-dim-scenic-simpsons.trycloudflare.com
+https://api.trycloudflare.com
