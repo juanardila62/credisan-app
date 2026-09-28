@@ -1,1 +1,1 @@
-https://cornwall-explore-fat-domestic.trycloudflare.com
+https://api.trycloudflare.com
