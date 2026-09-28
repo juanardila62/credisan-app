@@ -1,1 +1,1 @@
-https://manager-listening-supplier-consciousness.trycloudflare.com
+https://api.trycloudflare.com
