@@ -1,1 +1,1 @@
-https://window-cricket-pierce-compile.trycloudflare.com
+https://api.trycloudflare.com
