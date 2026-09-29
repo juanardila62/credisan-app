@@ -1,1 +1,1 @@
-https://while-covers-daily-essentially.trycloudflare.com
+https://api.trycloudflare.com
