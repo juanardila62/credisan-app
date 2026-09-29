@@ -1,1 +1,1 @@
-https://lip-richards-seating-refused.trycloudflare.com
+https://api.trycloudflare.com
