@@ -1,1 +1,1 @@
-https://happened-gba-breathing-flavor.trycloudflare.com
+https://api.trycloudflare.com
