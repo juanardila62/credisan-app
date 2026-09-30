@@ -1,1 +1,1 @@
-https://untitled-hiking-berkeley-collapse.trycloudflare.com
+https://api.trycloudflare.com
