@@ -1,1 +1,1 @@
-https://trainer-amd-costs-jones.trycloudflare.com
+https://api.trycloudflare.com
