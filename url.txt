@@ -1,1 +1,1 @@
-https://referrals-shorter-geography-web.trycloudflare.com
+https://api.trycloudflare.com
