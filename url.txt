@@ -1,1 +1,1 @@
-https://int-expansys-transcription-peninsula.trycloudflare.com
+https://api.trycloudflare.com
