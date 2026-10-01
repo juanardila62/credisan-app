@@ -1,1 +1,1 @@
-https://humidity-curriculum-contractors-spider.trycloudflare.com
+https://api.trycloudflare.com
