@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://boxes-cleared-deck-efficiency.trycloudflare.com
