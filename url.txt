@@ -1,1 +1,1 @@
-https://mathematics-honors-msg-democrat.trycloudflare.com
+https://api.trycloudflare.com
