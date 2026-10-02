@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://ascii-nice-jewel-parliamentary.trycloudflare.com
