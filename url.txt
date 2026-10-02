@@ -1,1 +1,1 @@
-https://enquiries-supervisors-conduct-atm.trycloudflare.com
+https://api.trycloudflare.com
