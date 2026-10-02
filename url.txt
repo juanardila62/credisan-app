@@ -1,1 +1,1 @@
-https://implied-noble-wan-medication.trycloudflare.com
+https://api.trycloudflare.com
