@@ -1,1 +1,1 @@
-https://membership-recognition-contributions-thinks.trycloudflare.com
+https://api.trycloudflare.com
