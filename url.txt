@@ -1,1 +1,1 @@
-https://aside-sam-trading-tba.trycloudflare.com
+https://api.trycloudflare.com
