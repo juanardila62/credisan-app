@@ -1,1 +1,1 @@
-https://restaurants-vpn-fixes-sara.trycloudflare.com
+https://api.trycloudflare.com
