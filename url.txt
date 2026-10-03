@@ -1,1 +1,1 @@
-https://corporate-liked-satisfaction-jones.trycloudflare.com
+https://api.trycloudflare.com
