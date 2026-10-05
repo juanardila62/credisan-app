@@ -1,1 +1,1 @@
-https://gui-strap-taxi-stakeholders.trycloudflare.com
+https://api.trycloudflare.com
