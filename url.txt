@@ -1,1 +1,1 @@
-https://production-folder-healthcare-apnic.trycloudflare.com
+https://api.trycloudflare.com
