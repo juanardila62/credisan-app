@@ -1,1 +1,1 @@
-https://flights-rouge-visiting-described.trycloudflare.com
+https://api.trycloudflare.com
