@@ -1,1 +1,1 @@
-https://paragraphs-enables-rca-tries.trycloudflare.com
+https://api.trycloudflare.com
