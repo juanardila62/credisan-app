@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://smithsonian-recommended-alert-quit.trycloudflare.com
