@@ -1,1 +1,1 @@
-https://mustang-dow-monthly-larry.trycloudflare.com
+https://api.trycloudflare.com
