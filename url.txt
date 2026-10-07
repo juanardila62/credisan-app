@@ -1,1 +1,1 @@
-https://armor-visitor-workstation-different.trycloudflare.com
+https://api.trycloudflare.com
