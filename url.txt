@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://controlled-elephant-promotions-half.trycloudflare.com
