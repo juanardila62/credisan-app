@@ -1,1 +1,1 @@
-https://beta-designs-impose-documentary.trycloudflare.com
+https://api.trycloudflare.com
