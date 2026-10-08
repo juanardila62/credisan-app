@@ -1,1 +1,1 @@
-https://closing-organised-routine-garden.trycloudflare.com
+https://api.trycloudflare.com
