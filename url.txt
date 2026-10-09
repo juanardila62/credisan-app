@@ -1,1 +1,1 @@
-https://horizontal-hats-translate-disable.trycloudflare.com
+https://api.trycloudflare.com
