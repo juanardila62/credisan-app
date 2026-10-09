@@ -1,1 +1,1 @@
-https://minutes-privileges-sorry-desirable.trycloudflare.com
+https://api.trycloudflare.com
