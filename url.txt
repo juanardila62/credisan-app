@@ -1,1 +1,1 @@
-https://disco-skin-stroke-clinic.trycloudflare.com
+https://api.trycloudflare.com
