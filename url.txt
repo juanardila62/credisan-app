@@ -1,1 +1,1 @@
-https://receiving-chubby-roles-atm.trycloudflare.com
+https://api.trycloudflare.com
