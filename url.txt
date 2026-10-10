@@ -1,1 +1,1 @@
-https://unless-lancaster-pamela-groove.trycloudflare.com
+https://api.trycloudflare.com
