@@ -1,1 +1,1 @@
-https://murphy-simulations-sterling-routines.trycloudflare.com
+https://api.trycloudflare.com
