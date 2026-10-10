@@ -1,1 +1,1 @@
-https://suits-here-him-hey.trycloudflare.com
+https://api.trycloudflare.com
