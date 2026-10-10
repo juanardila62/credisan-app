@@ -1,1 +1,1 @@
-https://cradle-colorado-publishers-matters.trycloudflare.com
+https://api.trycloudflare.com
