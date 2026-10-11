@@ -1,1 +1,1 @@
-https://sleeps-genuine-amy-filename.trycloudflare.com
+https://api.trycloudflare.com
