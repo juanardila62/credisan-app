@@ -1,1 +1,1 @@
-https://sales-worldcat-semiconductor-preparation.trycloudflare.com
+https://api.trycloudflare.com
