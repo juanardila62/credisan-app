@@ -1,1 +1,1 @@
-https://warning-nascar-robert-number.trycloudflare.com
+https://api.trycloudflare.com
