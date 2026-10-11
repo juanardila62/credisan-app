@@ -1,1 +1,1 @@
-https://floor-nearly-basically-assistant.trycloudflare.com
+https://api.trycloudflare.com
