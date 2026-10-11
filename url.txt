@@ -1,1 +1,1 @@
-https://flexible-childrens-attached-jump.trycloudflare.com
+https://api.trycloudflare.com
