@@ -1,1 +1,1 @@
-https://nat-indiana-separation-officers.trycloudflare.com
+https://api.trycloudflare.com
