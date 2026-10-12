@@ -1,1 +1,1 @@
-https://statewide-athletes-minerals-commission.trycloudflare.com
+https://api.trycloudflare.com
