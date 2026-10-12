@@ -1,1 +1,1 @@
-https://hill-viewpicture-threatened-maintains.trycloudflare.com
+https://api.trycloudflare.com
