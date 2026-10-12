@@ -1,1 +1,1 @@
-https://feed-longer-ontario-notes.trycloudflare.com
+https://api.trycloudflare.com
