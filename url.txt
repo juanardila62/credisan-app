@@ -1,1 +1,1 @@
-https://ethical-sizes-entrepreneur-logan.trycloudflare.com
+https://api.trycloudflare.com
