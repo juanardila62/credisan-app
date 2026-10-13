@@ -1,1 +1,1 @@
-https://sender-resume-developing-interviews.trycloudflare.com
+https://api.trycloudflare.com
