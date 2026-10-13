@@ -1,1 +1,1 @@
-https://damages-born-ist-just.trycloudflare.com
+https://api.trycloudflare.com
