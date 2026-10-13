@@ -1,1 +1,1 @@
-https://looksmart-several-develops-existed.trycloudflare.com
+https://api.trycloudflare.com
