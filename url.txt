@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://championship-ray-basement-open.trycloudflare.com
