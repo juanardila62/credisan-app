@@ -1,1 +1,1 @@
-https://genetics-subsidiaries-manhattan-championship.trycloudflare.com
+https://api.trycloudflare.com
