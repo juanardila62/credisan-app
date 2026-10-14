@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://levy-configuration-java-oak.trycloudflare.com
