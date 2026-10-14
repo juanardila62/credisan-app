@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://alpha-prayer-flexible-affair.trycloudflare.com
