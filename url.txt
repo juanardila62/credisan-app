@@ -1,1 +1,1 @@
-https://blades-camcorder-seed-apartments.trycloudflare.com
+https://api.trycloudflare.com
