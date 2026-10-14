@@ -1,1 +1,1 @@
-https://reprints-launch-dense-slim.trycloudflare.com
+https://api.trycloudflare.com
