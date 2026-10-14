@@ -1,1 +1,1 @@
-https://thank-experiment-from-reserves.trycloudflare.com
+https://api.trycloudflare.com
