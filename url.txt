@@ -1,1 +1,1 @@
-https://disclaimer-banners-cow-mortgage.trycloudflare.com
+https://api.trycloudflare.com
