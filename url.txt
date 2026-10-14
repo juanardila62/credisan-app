@@ -1,1 +1,1 @@
-https://comparison-wooden-probe-designated.trycloudflare.com
+https://api.trycloudflare.com
