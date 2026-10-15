@@ -1,1 +1,1 @@
-https://truck-advancement-sector-eco.trycloudflare.com
+https://api.trycloudflare.com
