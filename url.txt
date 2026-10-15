@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://expo-resulting-goals-stores.trycloudflare.com
