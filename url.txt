@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://seminar-suite-dot-summary.trycloudflare.com
