@@ -1,1 +1,1 @@
-https://wto-fleet-donors-ties.trycloudflare.com
+https://api.trycloudflare.com
