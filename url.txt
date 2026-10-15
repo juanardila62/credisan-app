@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://munich-therapeutic-cassette-homeless.trycloudflare.com
