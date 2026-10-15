@@ -1,1 +1,1 @@
-https://chemistry-invitations-administrative-kilometers.trycloudflare.com
+https://api.trycloudflare.com
