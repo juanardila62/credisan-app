@@ -1,1 +1,1 @@
-https://face-anyone-intended-lynn.trycloudflare.com
+https://api.trycloudflare.com
