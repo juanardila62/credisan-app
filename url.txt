@@ -1,1 +1,1 @@
-https://seventh-sprint-wed-tri.trycloudflare.com
+https://api.trycloudflare.com
