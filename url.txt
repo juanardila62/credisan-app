@@ -1,1 +1,1 @@
-https://kinase-expertise-franklin-rapid.trycloudflare.com
+https://api.trycloudflare.com
