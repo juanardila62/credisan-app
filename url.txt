@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://bizarre-locale-wednesday-subjects.trycloudflare.com
