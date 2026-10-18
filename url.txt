@@ -1,1 +1,1 @@
-https://evans-hans-munich-flying.trycloudflare.com
+https://api.trycloudflare.com
