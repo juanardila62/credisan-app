@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://crossing-favor-milan-idol.trycloudflare.com
