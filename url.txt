@@ -1,1 +1,1 @@
-https://represented-reprints-cooked-electronics.trycloudflare.com
+https://api.trycloudflare.com
