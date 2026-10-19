@@ -1,1 +1,1 @@
-https://occupation-linux-garbage-covered.trycloudflare.com
+https://api.trycloudflare.com
