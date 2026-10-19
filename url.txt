@@ -1,1 +1,1 @@
-https://sciences-phone-over-infections.trycloudflare.com
+https://api.trycloudflare.com
