@@ -1,1 +1,1 @@
-https://marked-floating-published-swim.trycloudflare.com
+https://api.trycloudflare.com
