@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://bruce-snap-radios-hook.trycloudflare.com
