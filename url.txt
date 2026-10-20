@@ -1,1 +1,1 @@
-https://cruise-progressive-pork-diamonds.trycloudflare.com
+https://api.trycloudflare.com
