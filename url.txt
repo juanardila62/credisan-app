@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://colored-components-dice-uncle.trycloudflare.com
