@@ -1,1 +1,1 @@
-https://draft-antenna-documents-indicators.trycloudflare.com
+https://api.trycloudflare.com
