@@ -1,1 +1,1 @@
-https://handle-falls-test-soonest.trycloudflare.com
+https://api.trycloudflare.com
