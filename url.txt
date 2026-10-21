@@ -1,1 +1,1 @@
-https://tourism-bikini-employer-shanghai.trycloudflare.com
+https://api.trycloudflare.com
