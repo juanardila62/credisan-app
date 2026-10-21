@@ -1,1 +1,1 @@
-https://facial-assign-hopefully-suitable.trycloudflare.com
+https://api.trycloudflare.com
