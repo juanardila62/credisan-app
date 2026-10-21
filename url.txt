@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://added-canberra-alfred-kidney.trycloudflare.com
