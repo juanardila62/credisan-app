@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://swimming-psi-lightning-hours.trycloudflare.com
