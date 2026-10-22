@@ -1,1 +1,1 @@
-https://annotated-burn-disc-organize.trycloudflare.com
+https://api.trycloudflare.com
