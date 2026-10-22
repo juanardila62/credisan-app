@@ -1,1 +1,1 @@
-https://champagne-wood-rome-antibodies.trycloudflare.com
+https://api.trycloudflare.com
