@@ -1,1 +1,1 @@
-https://pavilion-familiar-breach-ellis.trycloudflare.com
+https://api.trycloudflare.com
