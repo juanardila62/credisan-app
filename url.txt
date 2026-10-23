@@ -1,1 +1,1 @@
-https://eco-misc-dial-glory.trycloudflare.com
+https://api.trycloudflare.com
