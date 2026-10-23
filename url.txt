@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://variance-wine-software-somebody.trycloudflare.com
