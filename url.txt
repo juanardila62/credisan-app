@@ -1,1 +1,1 @@
-https://hispanic-forests-nicole-mobiles.trycloudflare.com
+https://api.trycloudflare.com
