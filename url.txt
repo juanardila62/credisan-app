@@ -1,1 +1,1 @@
-https://planned-laptops-relations-retirement.trycloudflare.com
+https://api.trycloudflare.com
