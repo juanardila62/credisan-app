@@ -1,1 +1,1 @@
-https://choice-fairfield-keeps-knights.trycloudflare.com
+https://api.trycloudflare.com
