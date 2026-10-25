@@ -1,1 +1,1 @@
-https://carried-rats-varied-amp.trycloudflare.com
+https://api.trycloudflare.com
