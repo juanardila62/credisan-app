@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://kitchen-related-history-switches.trycloudflare.com
