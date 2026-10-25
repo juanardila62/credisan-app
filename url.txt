@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://revelation-def-earthquake-registrar.trycloudflare.com
