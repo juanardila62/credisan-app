@@ -1,1 +1,1 @@
-https://expanded-lenses-union-ave.trycloudflare.com
+https://api.trycloudflare.com
