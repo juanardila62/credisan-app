@@ -1,1 +1,1 @@
-https://ahead-vids-thumbzilla-reproduce.trycloudflare.com
+https://api.trycloudflare.com
