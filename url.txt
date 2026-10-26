@@ -1,1 +1,1 @@
-https://controlled-henry-developing-addresses.trycloudflare.com
+https://api.trycloudflare.com
