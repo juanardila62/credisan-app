@@ -1,1 +1,1 @@
-https://delivers-discount-roles-flexibility.trycloudflare.com
+https://api.trycloudflare.com
