@@ -1,1 +1,1 @@
-https://afterwards-strap-closing-premium.trycloudflare.com
+https://api.trycloudflare.com
