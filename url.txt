@@ -1,1 +1,1 @@
-https://asus-gulf-highland-processor.trycloudflare.com
+https://api.trycloudflare.com
