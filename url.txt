@@ -1,1 +1,1 @@
-https://soviet-void-mercury-lecture.trycloudflare.com
+https://api.trycloudflare.com
