@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://tested-pill-weekends-novelty.trycloudflare.com
