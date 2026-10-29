@@ -1,1 +1,1 @@
-https://attention-comparable-manchester-skilled.trycloudflare.com
+https://api.trycloudflare.com
