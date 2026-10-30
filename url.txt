@@ -1,1 +1,1 @@
-https://animated-jerry-monthly-valued.trycloudflare.com
+https://api.trycloudflare.com
