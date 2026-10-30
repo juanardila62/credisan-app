@@ -1,1 +1,1 @@
-https://showed-anything-boston-literally.trycloudflare.com
+https://api.trycloudflare.com
