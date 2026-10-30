@@ -1,1 +1,1 @@
-https://fall-sword-sizes-cult.trycloudflare.com
+https://api.trycloudflare.com
