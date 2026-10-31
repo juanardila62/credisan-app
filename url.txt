@@ -1,1 +1,1 @@
-https://org-originally-seventh-sir.trycloudflare.com
+https://api.trycloudflare.com
