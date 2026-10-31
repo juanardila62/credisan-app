@@ -1,1 +1,1 @@
-https://constitutional-postage-stress-low.trycloudflare.com
+https://api.trycloudflare.com
