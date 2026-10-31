@@ -1,1 +1,1 @@
-https://property-agrees-ace-contests.trycloudflare.com
+https://api.trycloudflare.com
