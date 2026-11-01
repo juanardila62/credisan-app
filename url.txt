@@ -1,1 +1,1 @@
-https://appointed-resort-supply-secret.trycloudflare.com
+https://api.trycloudflare.com
