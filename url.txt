@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://license-mug-signature-delivering.trycloudflare.com
