@@ -1,1 +1,1 @@
-https://awarded-faces-priced-sugar.trycloudflare.com
+https://api.trycloudflare.com
