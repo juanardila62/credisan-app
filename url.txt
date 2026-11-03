@@ -1,1 +1,1 @@
-https://anywhere-imposed-columbus-hobby.trycloudflare.com
+https://api.trycloudflare.com
