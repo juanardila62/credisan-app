@@ -1,1 +1,1 @@
-https://agencies-neon-integer-reduce.trycloudflare.com
+https://api.trycloudflare.com
