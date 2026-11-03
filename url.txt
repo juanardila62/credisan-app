@@ -1,1 +1,1 @@
-https://affiliation-silk-cork-promising.trycloudflare.com
+https://api.trycloudflare.com
