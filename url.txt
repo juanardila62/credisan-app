@@ -1,1 +1,1 @@
-https://homes-reliable-panels-candles.trycloudflare.com
+https://api.trycloudflare.com
