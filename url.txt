@@ -1,1 +1,1 @@
-https://arch-filled-hung-harry.trycloudflare.com
+https://api.trycloudflare.com
