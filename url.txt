@@ -1,1 +1,1 @@
-https://powell-congress-refuse-satin.trycloudflare.com
+https://api.trycloudflare.com
