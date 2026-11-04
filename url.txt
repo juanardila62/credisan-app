@@ -1,1 +1,1 @@
-https://busy-auckland-ratio-celebrity.trycloudflare.com
+https://api.trycloudflare.com
