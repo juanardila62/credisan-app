@@ -1,1 +1,1 @@
-https://indicator-catalogs-influences-strange.trycloudflare.com
+https://api.trycloudflare.com
