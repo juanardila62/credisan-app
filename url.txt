@@ -1,1 +1,1 @@
-https://indexes-istanbul-merely-laugh.trycloudflare.com
+https://api.trycloudflare.com
