@@ -1,1 +1,1 @@
-https://guests-mobiles-citation-agreement.trycloudflare.com
+https://api.trycloudflare.com
