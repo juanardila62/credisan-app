@@ -1,1 +1,1 @@
-https://dean-sales-lucky-gsm.trycloudflare.com
+https://api.trycloudflare.com
