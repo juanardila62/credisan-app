@@ -1,1 +1,1 @@
-https://sand-futures-calculated-surrey.trycloudflare.com
+https://api.trycloudflare.com
