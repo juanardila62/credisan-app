@@ -1,1 +1,1 @@
-https://maine-marco-quebec-military.trycloudflare.com
+https://api.trycloudflare.com
