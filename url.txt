@@ -1,1 +1,1 @@
-https://seen-rss-racing-progressive.trycloudflare.com
+https://api.trycloudflare.com
