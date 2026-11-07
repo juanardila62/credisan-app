@@ -1,1 +1,1 @@
-https://bachelor-screens-combining-checkout.trycloudflare.com
+https://api.trycloudflare.com
