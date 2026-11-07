@@ -1,1 +1,1 @@
-https://clarke-thumbs-think-moms.trycloudflare.com
+https://api.trycloudflare.com
