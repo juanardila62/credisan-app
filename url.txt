@@ -1,1 +1,1 @@
-https://populations-secrets-attacked-blue.trycloudflare.com
+https://api.trycloudflare.com
