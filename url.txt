@@ -1,1 +1,1 @@
-https://michelle-poster-barry-mighty.trycloudflare.com
+https://api.trycloudflare.com
