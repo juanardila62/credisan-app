@@ -1,1 +1,1 @@
-https://exhibition-tried-begin-louis.trycloudflare.com
+https://api.trycloudflare.com
