@@ -1,1 +1,1 @@
-https://reads-mission-conservation-hierarchy.trycloudflare.com
+https://api.trycloudflare.com
