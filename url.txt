@@ -1,1 +1,1 @@
-https://transparent-duration-pale-holly.trycloudflare.com
+https://api.trycloudflare.com
