@@ -1,1 +1,1 @@
-https://endless-characterized-princess-high.trycloudflare.com
+https://api.trycloudflare.com
