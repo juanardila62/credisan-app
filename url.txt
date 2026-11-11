@@ -1,1 +1,1 @@
-https://enables-divided-arab-seattle.trycloudflare.com
+https://api.trycloudflare.com
