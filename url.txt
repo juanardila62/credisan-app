@@ -1,1 +1,1 @@
-https://hybrid-grow-established-heroes.trycloudflare.com
+https://api.trycloudflare.com
