@@ -1,1 +1,1 @@
-https://told-lovers-native-ssl.trycloudflare.com
+https://api.trycloudflare.com
