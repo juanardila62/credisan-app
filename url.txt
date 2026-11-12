@@ -1,1 +1,1 @@
-https://snowboard-sea-hoped-conventional.trycloudflare.com
+https://api.trycloudflare.com
