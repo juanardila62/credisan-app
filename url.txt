@@ -1,1 +1,1 @@
-https://eric-five-nevertheless-citations.trycloudflare.com
+https://api.trycloudflare.com
