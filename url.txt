@@ -1,1 +1,1 @@
-https://belong-miscellaneous-realm-pamela.trycloudflare.com
+https://api.trycloudflare.com
