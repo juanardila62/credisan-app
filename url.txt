@@ -1,1 +1,1 @@
-https://yoga-crimes-dock-harvey.trycloudflare.com
+https://api.trycloudflare.com
