@@ -1,1 +1,1 @@
-https://shots-take-joshua-spirit.trycloudflare.com
+https://api.trycloudflare.com
