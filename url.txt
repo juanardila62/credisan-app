@@ -1,1 +1,1 @@
-https://meditation-pacific-casual-college.trycloudflare.com
+https://api.trycloudflare.com
