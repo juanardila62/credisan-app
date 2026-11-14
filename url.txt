@@ -1,1 +1,1 @@
-https://rings-mechanical-expenses-celebrities.trycloudflare.com
+https://api.trycloudflare.com
