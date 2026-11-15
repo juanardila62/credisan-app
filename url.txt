@@ -1,1 +1,1 @@
-https://ellis-wendy-illustrated-triangle.trycloudflare.com
+https://api.trycloudflare.com
