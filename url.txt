@@ -1,1 +1,1 @@
-https://msg-rosa-tubes-prominent.trycloudflare.com
+https://api.trycloudflare.com
