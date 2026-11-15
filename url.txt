@@ -1,1 +1,1 @@
-https://contribute-planned-instructions-catalogs.trycloudflare.com
+https://api.trycloudflare.com
