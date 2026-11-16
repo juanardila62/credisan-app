@@ -1,1 +1,1 @@
-https://replica-roland-alien-subdivision.trycloudflare.com
+https://api.trycloudflare.com
