@@ -1,1 +1,1 @@
-https://advancement-awesome-italia-contained.trycloudflare.com
+https://api.trycloudflare.com
