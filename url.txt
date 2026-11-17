@@ -1,1 +1,1 @@
-https://inquire-airports-php-seating.trycloudflare.com
+https://api.trycloudflare.com
