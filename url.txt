@@ -1,1 +1,1 @@
-https://advertiser-platform-drums-shoes.trycloudflare.com
+https://api.trycloudflare.com
