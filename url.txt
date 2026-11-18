@@ -1,1 +1,1 @@
-https://experiments-returned-antarctica-therapy.trycloudflare.com
+https://api.trycloudflare.com
