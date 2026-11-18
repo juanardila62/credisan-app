@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://affiliated-epson-tied-cfr.trycloudflare.com
