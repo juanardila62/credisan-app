@@ -1,1 +1,1 @@
-https://colour-nov-hierarchy-campbell.trycloudflare.com
+https://api.trycloudflare.com
