@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://dns-attacked-distinct-palmer.trycloudflare.com
