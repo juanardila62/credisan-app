@@ -1,1 +1,1 @@
-https://publisher-carlos-meet-fat.trycloudflare.com
+https://api.trycloudflare.com
