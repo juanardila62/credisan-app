@@ -1,1 +1,1 @@
-https://outlet-ross-gates-lending.trycloudflare.com
+https://api.trycloudflare.com
