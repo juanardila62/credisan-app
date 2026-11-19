@@ -1,1 +1,1 @@
-https://protect-brighton-seas-admissions.trycloudflare.com
+https://api.trycloudflare.com
