@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://bios-douglas-univ-struggle.trycloudflare.com
