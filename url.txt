@@ -1,1 +1,1 @@
-https://threats-cameras-hence-semi.trycloudflare.com
+https://api.trycloudflare.com
