@@ -1,1 +1,1 @@
-https://architectural-open-know-irc.trycloudflare.com
+https://api.trycloudflare.com
