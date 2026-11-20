@@ -1,1 +1,1 @@
-https://tissue-ash-available-principal.trycloudflare.com
+https://api.trycloudflare.com
