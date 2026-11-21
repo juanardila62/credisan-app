@@ -1,1 +1,1 @@
-https://roommate-busy-tactics-amsterdam.trycloudflare.com
+https://api.trycloudflare.com
