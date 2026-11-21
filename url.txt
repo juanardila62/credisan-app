@@ -1,1 +1,1 @@
-https://hear-yourself-dollar-skiing.trycloudflare.com
+https://api.trycloudflare.com
