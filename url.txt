@@ -1,1 +1,1 @@
-https://glasses-gospel-belly-bone.trycloudflare.com
+https://api.trycloudflare.com
