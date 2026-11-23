@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://day-during-indicator-generic.trycloudflare.com
