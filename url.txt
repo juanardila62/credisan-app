@@ -1,1 +1,1 @@
-https://dpi-blogging-nutten-elected.trycloudflare.com
+https://api.trycloudflare.com
