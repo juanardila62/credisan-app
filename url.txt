@@ -1,1 +1,1 @@
-https://overall-forecast-attitudes-quit.trycloudflare.com
+https://api.trycloudflare.com
