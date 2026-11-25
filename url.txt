@@ -1,1 +1,1 @@
-https://macro-russell-chapel-repair.trycloudflare.com
+https://api.trycloudflare.com
