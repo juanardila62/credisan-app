@@ -1,1 +1,1 @@
-https://sections-sims-tops-joel.trycloudflare.com
+https://api.trycloudflare.com
