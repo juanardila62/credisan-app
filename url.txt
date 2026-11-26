@@ -1,1 +1,1 @@
-https://interval-rough-weekends-handled.trycloudflare.com
+https://api.trycloudflare.com
