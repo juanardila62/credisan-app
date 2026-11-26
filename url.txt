@@ -1,1 +1,1 @@
-https://street-emotional-buffalo-choices.trycloudflare.com
+https://api.trycloudflare.com
