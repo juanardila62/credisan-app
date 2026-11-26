@@ -1,1 +1,1 @@
-https://arabia-attempting-proceeds-fits.trycloudflare.com
+https://api.trycloudflare.com
