@@ -1,1 +1,1 @@
-https://raid-wet-lang-contained.trycloudflare.com
+https://api.trycloudflare.com
