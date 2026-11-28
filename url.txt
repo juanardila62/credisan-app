@@ -1,1 +1,1 @@
-https://packet-crossword-savings-gratis.trycloudflare.com
+https://api.trycloudflare.com
